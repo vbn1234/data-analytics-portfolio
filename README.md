@@ -77,3 +77,6 @@ Looking for **Remote / Work From Home Data Analyst roles**.
 
 📧 Email: ridamahwish13@gmail.com  
 🔗 LinkedIn: www.linkedin.com/in/rida-mahwish-6652ba387  
+## 📸 dashboard screenshot
+<img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/4c9433d4-896c-4f89-8726-cdb95c66d95e" />
+
