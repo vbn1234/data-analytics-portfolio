@@ -79,4 +79,48 @@ Looking for **Remote / Work From Home Data Analyst roles**.
 🔗 LinkedIn: www.linkedin.com/in/rida-mahwish-6652ba387  
 ## 📸 dashboard screenshot
 <img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/4c9433d4-896c-4f89-8726-cdb95c66d95e" />
+## 🌫️ Delhi Air Pollution Analysis – Data Analytics Project
+
+### 📌 Project Overview
+This project analyzes air pollution levels in Delhi to understand seasonal patterns and identify major contributing pollutants using data analytics techniques.
+
+### 📂 Dataset
+The dataset includes the following attributes:
+- Date
+- Location
+- PM2.5
+- PM10
+- NO2
+- SO2
+- CO
+- AQI
+
+### 🧰 Tools Used
+- Google Sheets
+- Data Analysis
+- Data Visualization
+- AVERAGEIF, AVERAGE formulas
+- Charts
+
+### 📊 Analysis Performed
+- Calculated monthly average AQI values
+- Analyzed pollutant-wise average levels
+- Created visualizations:
+  - Delhi Monthly Air Quality Index (AQI) Trend
+  - Average Pollutant Levels in Delhi
+
+### 🔍 Key Insights
+- Air pollution levels are highest during winter months, especially November and December.
+- AQI levels decrease significantly during summer months such as April and May.
+- PM2.5 and PM10 are the major contributors to poor air quality.
+- Seasonal weather conditions strongly influence pollution levels in Delhi.
+
+### 📸 Visuals
+Screenshots of charts and insights are available on my LinkedIn project post.
+
+
+
+
+
+
 
